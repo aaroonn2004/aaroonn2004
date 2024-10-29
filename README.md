@@ -13,6 +13,15 @@
 
 <h3 align="left">¡Ponte en contacto conmigo!:</h3>
 <p align="left">
+    <a href="https://www.instagram.com/aaroonn._dev" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://twitter.com/aaroonn._dev" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://www.tiktok.com/@aaroonn._dev" target="_blank">
+        <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+    </a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
